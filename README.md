@@ -1,3 +1,3 @@
 # check-notifications
 
-fancy a pr
+bul' bul' bul'
