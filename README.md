@@ -1,3 +1,3 @@
 # check-notifications
 
-fancy a pr
+bla bla bla
